@@ -1,4 +1,4 @@
-# WEB SCRAPPING WITH NIGHTMARE JS
+# WEB SCRAPING WITH NIGHTMARE JS
 ![nightmareJS-preview](/nightmareJS-preview.png)
 
 ## Description
